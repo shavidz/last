@@ -1,0 +1,207 @@
+@media(width <=1024px){
+    .slider-container{
+        max-width: 1024px;
+        height: 700px;
+    }
+    .number{
+        font-size: 100px;
+    }
+    .top-right2{
+        top: 85px;
+        right: 122px;
+    }
+    .AM{
+        font-size: 20px;
+    }
+    .content{
+        width: 430px;
+        height: 200px;
+        right: 50px;
+        top: 300px;
+    }
+    .Hi{
+        font-size: 30px;
+    }
+    .Me{
+        font-size: 50px;
+    }
+    .Who-I-am{
+        font-size: 15px;
+    }
+    .facebook,.instagram,.youtube,.github {
+        width: 20px;
+        height: 20px;
+    }
+    .satisfaction {
+        width: 200px;
+        right: 50px;
+        bottom: 20px;
+    }
+    .text {
+        font-size: 15px;
+    }
+    .persentage {
+        font-size: 15px;
+    }
+
+    .information-container{
+        max-width: 700px;
+        padding-right: 0px;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+    }
+    .article-img{
+        display: none;
+    }
+    .name {
+        margin-top: 0px;
+    }
+    .abilities {
+        margin-top: 0px;
+    }
+
+    .contact-container{
+        max-width: 887px;
+        gap: 10px;
+        padding-left: 0px;
+    }
+
+    .services-container{
+        max-width: 976px;
+        padding-left: 0px;
+    }
+    .services{
+        row-gap: 5px;
+        column-gap: 5px;
+      }
+    .div-services {
+        width:100%;
+    }
+
+    .recommendations-container{
+        max-width: 1024px;
+    }
+    .div-recommendation1{
+        left: 50px;
+    }
+    .div-text{
+        width: 300px;
+    }
+    .slider-buttons {
+        right: 120px;
+    }
+
+    .Latest-Projects-container{
+        max-width: 900px;
+        padding-left: 0px;
+    }
+    .div-categories{
+        width: 200px;
+        padding-right: 50px;
+        padding-left: 45px;
+    }
+    .div-project {
+        width: 231px;
+        height: 270px;
+    }
+
+    .Latest-Articles-container{
+        max-width: 1024px;
+    }
+    .period{
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+    }
+    .article-Graphic-Designer{
+        grid-template-columns: 0% 45% 10% 45%;
+        height: 400px;
+    }
+    .div-icon-GD{
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    .p-ifc{
+        font-size: 10px;
+        margin-left: 20px;
+    }
+    .h3-Latest-Articles{
+        font-size: 35px;
+        margin-bottom: 15px;
+        margin-left: 20px;
+    }
+    .div-GD-text{
+        max-width: 400px;
+        margin-left: 20px;
+    }
+    .p-GD{
+        font-size: 14px;
+    }
+    .article-Application-Design{
+        grid-template-columns: 45% 10% 0% 45% 0%;
+        height: 400px;
+    }
+    .icon-AD{
+        margin-top: 25px;
+        margin-bottom: 25px;
+        margin-left: 30px;
+    }
+    .p-AD-ifc{
+        font-size: 10px;
+        margin-left: 30px;
+    }
+    .h3-AD-Latest-Articles{
+        font-size: 35px;
+        margin-bottom: 15px;
+        margin-left: 30px;
+    }
+    .div-AD-text{
+        max-width: 400px;
+        margin-left: 30px;
+    }
+    .p-AD{
+        font-size: 14px;
+    }
+    .article-Personal-Adviser{
+        grid-template-columns: 0% 45% 10% 45%;
+        height: 400px;
+    }
+    .div-icon-PA{
+        margin-top: 25px;
+        margin-bottom: 25px;
+        margin-left: 20px;
+    }
+    .p-PA-ifc{
+        font-size: 10px;
+        margin-left: 20px;
+    }
+    .h3-PA-Latest-Articles{
+        font-size: 35px;
+        margin-bottom: 15px;
+        margin-left: 20px;
+    }
+    .div-PA-text{
+        max-width: 400px;
+        margin-left: 20px;
+    }
+    .p-PA{
+        font-size: 14px;
+    }
+
+    .div-map-background{
+        max-width: 1024px;
+    }
+    .footer-map{
+        width: 1024px;
+    }
+    .div-contact{
+        right: 290px;
+    }
+    .div-form {
+        right: 60px;
+    }
+    .footer-button {
+        right: 410px;
+    }
+}
